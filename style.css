@@ -1,4 +1,18 @@
 h1 {
+  font: Tahoma;
+  size: 6;
+  color: maroon;
+  background-color: light-purple;
+}
+
+h2 {
+  font: Times New Roman;
+  size: 6;
   color: red;
-  background-color: purple;
+}
+
+h3 {
+  font: Arial;
+  size: 5;
+  color: purple;
 }
