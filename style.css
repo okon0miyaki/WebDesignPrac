@@ -1,6 +1,8 @@
 body {
- background-color: purple; 
+ font: calibri;
+ background-color: lightblue; 
 }
+
 h1 {
   font: Tahoma;
   size: 6;
@@ -23,6 +25,6 @@ h6 {
   align: middle;
   font: comic-sans;
   color: white;
-  size: 3;
+  size: 5;
   background-color: gray;
 }
